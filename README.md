@@ -4,6 +4,6 @@ This project is a password generator built using React and Vite. It generates se
 
 ## View Demo Here
 
-(https://password-gen0.netlify.app)
+https://password-gen0.netlify.app
 
 
